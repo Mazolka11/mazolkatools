@@ -13,9 +13,9 @@ authors = [
     { name = "Ваше Имя", email = "cyrollbozek@gmail.com" },
 ]
 urls = {
-    Homepage = "https://github.com/Mazolka11/texttools",
-    Repository = "https://github.com/Mazolka11/texttools",
-    Documentation = "https://github.com/Mazolka11/texttools/blob/main/README.md",
+    Homepage = "https://github.com/Mazolka11",
+    Repository = "https://github.com/Mazolka11/mazolkatools",
+    Documentation = "https://github.com/Mazolka11/mazolkatools/tree/master/docs",
 }
 classifiers = [
     "Development Status :: 3 - Alpha",
