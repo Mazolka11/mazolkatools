@@ -15,7 +15,7 @@ authors = [
 urls = {
     Homepage = "https://github.com/Mazolka11",
     Repository = "https://github.com/Mazolka11/mazolkatools"
-    Documentation = "https://github.com/Mazolka11/mazolkatools/docs/README.md",
+    Documentation = "https://github.com/Mazolka11/mazolkatools/tree/master/docs",
 }
 classifiers = [
     "Development Status :: 3 - Alpha",
